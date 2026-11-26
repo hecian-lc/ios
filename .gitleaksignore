@@ -1,0 +1,4 @@
+# Falsos positivos de gitleaks, uno por línea (commit:archivo:regla:línea).
+# Podfile.lock, SPEC CHECKSUMS: es el checksum SHA-1 de un pod de CocoaPods,
+# no una clave.
+4919adbf8ba9befa0a40fd0e682336baa2bf31d3:Podfile.lock:generic-api-key:2332
